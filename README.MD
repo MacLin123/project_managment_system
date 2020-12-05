@@ -1,5 +1,7 @@
 # гайд,но мы используем томкат 8.0.9.
 [Link_Guide_Hello_World_jsp](https://o7planning.org/ru/10209/installing-and-configuring-tomcat-server-in-eclipse)
+# Прекрасный гайд по JSP
+[Link](https://o7planning.org/ru/10263/java-jsp-tutorial)
 
 
 # устанавливаем плагины в eclipse как установить по ссылке:
